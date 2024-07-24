@@ -1,17 +1,17 @@
 # ML_Assign1
 
-# Description
+## Description
 
 This is a Machine Learning project base on the assignment 1 requirement for the assignment of machine learning in RMIT University Master of AI degree
 
-# Goal
+## Goal
 
 The goal is to simulate a end to end machine learnin project and select and train a machine learning model that capable of addressing the task:
 
 > “Predict if a given in ICU would not develop a sepsis (Sepsis Negative / class 0) or
 > will develop sepsis (Sepsis Positive / class 1) during their ICU stay.”
 
-# Dependencies
+## Dependencies
 
 Include in the project folder is the YAML file that include all the dependencies for the notebook to run properly. 
 
