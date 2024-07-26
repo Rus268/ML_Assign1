@@ -26,7 +26,7 @@ The environment file use "myenv" for the environment name when create as default
 
 ## Using Python Virtual Environment
 
-In case the above method does not work or the method above does not work you can create a new Python virtual environment using the provided requirements.txt
+In case the above method does not work or you know what you are doing you can create a new Python virtual environment and install the required dependencies using the provided requirements.txt.
 
 If you prefer to use requirements.txt or if the above method does not work, you can create a new Python virtual environment and install the dependencies from requirements.txt.
 
